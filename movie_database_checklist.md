@@ -25,8 +25,6 @@ This Node.js utility provides functions to query a movie database using Mongoose
         :ballot_box_with_check: If the movie is found, print the movie object to the console; else, handle errors gracefully.
      2. `readAllMovies()`
         :ballot_box_with_check: Fetch all movies; print them to the console.
-
-
      3. `readMovieByDirector(directorName)`
          :ballot_box_with_check: Query all movies by director; print the resulting array to the console.
      
